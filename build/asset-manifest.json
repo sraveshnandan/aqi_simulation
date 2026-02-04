@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6fcb1f7.css",
-    "main.js": "/static/js/main.907a8e10.js",
-    "index.html": "/index.html",
-    "main.b6fcb1f7.css.map": "/static/css/main.b6fcb1f7.css.map",
-    "main.907a8e10.js.map": "/static/js/main.907a8e10.js.map"
+    "main.css": "/Urban-Policy-Decision-Engine/static/css/main.b6fcb1f7.css",
+    "main.js": "/Urban-Policy-Decision-Engine/static/js/main.907a8e10.js",
+    "index.html": "/Urban-Policy-Decision-Engine/index.html",
+    "main.b6fcb1f7.css.map": "/Urban-Policy-Decision-Engine/static/css/main.b6fcb1f7.css.map",
+    "main.907a8e10.js.map": "/Urban-Policy-Decision-Engine/static/js/main.907a8e10.js.map"
   },
   "entrypoints": [
     "static/css/main.b6fcb1f7.css",
